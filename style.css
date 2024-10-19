@@ -1,0 +1,40 @@
+body{
+    background-color: #b2df9d;
+    text-align: center;
+    font-size: 20pt;
+}
+
+header{
+    font-size: 15pt;
+    color: #2e7d22;
+    text-shadow: 3px 3px 13px white;
+}
+
+div{
+    background-color: #86be74;
+    padding: 20px;
+    border: 1px solid #5a9e4b;
+    border-radius: 13px;
+    width: 250px;
+    display: inline-block;
+    font-size: 25pt;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    background-color: white;
+    display: inline-block;
+    padding: 10px;
+    padding-right: 10px;
+    border-radius: 13px;
+    position: relative;
+    left: -20px;
+    text-align: center;
+}
+
+footer{
+    border-top: 1px solid #2e7d22;
+}
